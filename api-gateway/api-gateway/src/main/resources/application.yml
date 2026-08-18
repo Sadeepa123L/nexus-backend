@@ -11,6 +11,10 @@ spring:
           uri: lb://WORKSPACE-SERVICE
           predicates:
             - Path=/api/workspace/**
+        - id: auth-service
+          uri: lb://AUTH-SERVICE
+          predicates:
+            - Path=/auth/**
 
 eureka:
   instance:
