@@ -1,1 +1,13 @@
+com\nexus\auth_service\controller\AuthController.class
 com\nexus\auth_service\AuthServiceApplication.class
+com\nexus\auth_service\dto\UserRequestDTO.class
+com\nexus\auth_service\service\AuthService.class
+com\nexus\auth_service\config\CustomUserDetails.class
+com\nexus\auth_service\entity\User.class
+com\nexus\auth_service\dto\AuthResponseDTO.class
+com\nexus\auth_service\repository\UserRepository.class
+com\nexus\auth_service\service\CustomUserDetailsService.class
+com\nexus\auth_service\config\AuthConfig.class
+com\nexus\auth_service\dto\LoginRequestDTO.class
+com\nexus\auth_service\entity\AuthProvider.class
+com\nexus\auth_service\service\JwtService.class
