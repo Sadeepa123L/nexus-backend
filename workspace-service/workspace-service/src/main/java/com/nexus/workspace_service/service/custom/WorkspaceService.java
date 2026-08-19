@@ -2,7 +2,6 @@ package com.nexus.workspace_service.service.custom;
 
 import com.nexus.workspace_service.dto.WorkspaceRequestDTO;
 import com.nexus.workspace_service.dto.WorkspaceResponseDTO;
-import org.hibernate.jdbc.Work;
 
 import java.util.List;
 
