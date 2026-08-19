@@ -10,7 +10,7 @@ spring:
         - id: workspace-service
           uri: lb://WORKSPACE-SERVICE
           predicates:
-            - Path=/api/workspace/**
+            - Path=/api/v1/workspaces/**
         - id: auth-service
           uri: lb://AUTH-SERVICE
           predicates:

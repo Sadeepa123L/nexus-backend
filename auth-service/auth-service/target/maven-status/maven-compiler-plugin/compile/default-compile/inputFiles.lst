@@ -1,0 +1,16 @@
+C:\My-projects\Nexus\auth-service\auth-service\src\main\java\com\nexus\auth_service\AuthServiceApplication.java
+C:\My-projects\Nexus\auth-service\auth-service\src\main\java\com\nexus\auth_service\config\AuthConfig.java
+C:\My-projects\Nexus\auth-service\auth-service\src\main\java\com\nexus\auth_service\config\CustomUserDetails.java
+C:\My-projects\Nexus\auth-service\auth-service\src\main\java\com\nexus\auth_service\config\CustomUserDetailsService.java
+C:\My-projects\Nexus\auth-service\auth-service\src\main\java\com\nexus\auth_service\controller\AuthController.java
+C:\My-projects\Nexus\auth-service\auth-service\src\main\java\com\nexus\auth_service\dto\AuthRequest.java
+C:\My-projects\Nexus\auth-service\auth-service\src\main\java\com\nexus\auth_service\dto\AuthResponse.java
+C:\My-projects\Nexus\auth-service\auth-service\src\main\java\com\nexus\auth_service\dto\AuthResponseDTO.java
+C:\My-projects\Nexus\auth-service\auth-service\src\main\java\com\nexus\auth_service\dto\LoginRequestDTO.java
+C:\My-projects\Nexus\auth-service\auth-service\src\main\java\com\nexus\auth_service\dto\RegisterRequest.java
+C:\My-projects\Nexus\auth-service\auth-service\src\main\java\com\nexus\auth_service\dto\UserRequestDTO.java
+C:\My-projects\Nexus\auth-service\auth-service\src\main\java\com\nexus\auth_service\entity\AuthProvider.java
+C:\My-projects\Nexus\auth-service\auth-service\src\main\java\com\nexus\auth_service\entity\User.java
+C:\My-projects\Nexus\auth-service\auth-service\src\main\java\com\nexus\auth_service\repository\UserRepository.java
+C:\My-projects\Nexus\auth-service\auth-service\src\main\java\com\nexus\auth_service\service\AuthService.java
+C:\My-projects\Nexus\auth-service\auth-service\src\main\java\com\nexus\auth_service\service\JwtService.java
